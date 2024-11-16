@@ -46,7 +46,7 @@
         <mxCell id="VOvEn0KjgjUTMuamSDGO-15" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Chuyển đơn hàng&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="140" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;endArrow=open;endFill=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="205" as="targetPoint" />
             <Array as="points">
@@ -57,7 +57,7 @@
         <mxCell id="VOvEn0KjgjUTMuamSDGO-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Thông báo &quot;chờ xử lý&quot; qua WebSocket&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="160" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-21" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-21" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574" y="240" as="sourcePoint" />
             <mxPoint x="404" y="240" as="targetPoint" />
@@ -66,10 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Cập nhật trạng thái &quot;Từ chối&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="210" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;endArrow=open;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="260" as="sourcePoint" />
             <mxPoint x="90" y="260" as="targetPoint" />
@@ -81,7 +78,7 @@
         <mxCell id="VOvEn0KjgjUTMuamSDGO-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Thông báo trạng thái &quot;Từ chối&quot; qua WebSocket&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="230" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-27" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574" y="300" as="sourcePoint" />
             <mxPoint x="404" y="300" as="targetPoint" />
@@ -90,10 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Cập nhật trạng thái &quot;Đang nấu&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="270" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" source="VOvEn0KjgjUTMuamSDGO-5" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;endArrow=open;endFill=0;" parent="1" source="VOvEn0KjgjUTMuamSDGO-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="370" as="sourcePoint" />
             <mxPoint x="90" y="370" as="targetPoint" />
@@ -102,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-35" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-35" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574" y="410" as="sourcePoint" />
             <mxPoint x="404" y="410" as="targetPoint" />
@@ -111,10 +105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-36" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Cập nhật trạng thái &quot;Đã phục vụ&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="410" y="382" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;endArrow=open;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="432" as="sourcePoint" />
             <mxPoint x="90" y="432" as="targetPoint" />
@@ -140,7 +131,7 @@
         <mxCell id="VOvEn0KjgjUTMuamSDGO-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Thông báo trạng thái &quot;Đang nấu&quot; qua WebSocket&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VOvEn0KjgjUTMuamSDGO-42" vertex="1">
           <mxGeometry x="170" y="80" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VOvEn0KjgjUTMuamSDGO-29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="VOvEn0KjgjUTMuamSDGO-42" edge="1">
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;endArrow=open;endFill=0;" parent="VOvEn0KjgjUTMuamSDGO-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="454" y="110" as="sourcePoint" />
             <mxPoint x="149" y="110" as="targetPoint" />
@@ -151,6 +142,15 @@
         </mxCell>
         <mxCell id="VOvEn0KjgjUTMuamSDGO-32" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Mang món ra&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VOvEn0KjgjUTMuamSDGO-42" vertex="1">
           <mxGeometry x="210" y="135" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Cập nhật trạng thái &quot;Đang nấu&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VOvEn0KjgjUTMuamSDGO-42" vertex="1">
+          <mxGeometry x="460" y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Cập nhật trạng thái &quot;Từ chối&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VOvEn0KjgjUTMuamSDGO-42" vertex="1">
+          <mxGeometry x="460" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VOvEn0KjgjUTMuamSDGO-36" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Cập nhật trạng thái &quot;Đã phục vụ&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VOvEn0KjgjUTMuamSDGO-42" vertex="1">
+          <mxGeometry x="470" y="165" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
